@@ -1,6 +1,5 @@
 package Stream.sweetsBox;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class ExpansionSweetsBox {
@@ -10,7 +9,7 @@ public class ExpansionSweetsBox {
         List<String> sweets = List.of("cookie", "chocolate", "candy", "gum","chocolate");
 
         // ラムダ式を拡張for文で記述する
-        for (String sweet : sweets) {
+        for (String ignored : sweets) {
             System.out.println(sweets);
         }
 
