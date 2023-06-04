@@ -6,7 +6,7 @@ import java.util.List;
 public class ForEachSweetsBox {
     public static void main(String[] args) {
 
-        List<String> sweets = new ArrayList<String>();
+        List<String> sweets = new ArrayList<>();
 
         sweets.add("cookie");
         sweets.add("chocolate");
