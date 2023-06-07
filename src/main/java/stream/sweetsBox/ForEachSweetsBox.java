@@ -1,4 +1,4 @@
-package Stream.sweetsBox;
+package stream.sweetsBox;
 
 import java.util.ArrayList;
 import java.util.List;
