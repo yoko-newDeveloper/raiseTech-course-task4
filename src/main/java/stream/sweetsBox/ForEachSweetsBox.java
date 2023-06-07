@@ -15,6 +15,6 @@ public class ForEachSweetsBox {
         sweets.add("chocolate");
 
         // ラムダ式
-        sweets.forEach(sweet -> System.out.println(sweets));
+        sweets.forEach(sweet -> System.out.println(sweet));
     }
 }
